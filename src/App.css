@@ -1,0 +1,22 @@
+.navbar{
+  background-color:rgb(38, 96, 98) !important;
+ 
+}
+
+ .nav-link{
+  color:rgb(246, 246, 245) !important;
+}
+
+.navbar a{
+  color:rgb(246, 246, 245) !important;
+}
+
+.navbar button{
+  color:rgb(246, 246, 245) !important;
+}
+
+.img-fluid{
+  width: 100% !important;
+  height: 90vh !important;
+  object-fit: cover !important;
+}
